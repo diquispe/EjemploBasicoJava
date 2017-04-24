@@ -2,6 +2,7 @@
 public class Album {
 	public String titulo;
 	public String autor;
+	
 	public float  precio;
 	public String getTitulo() {
 		return titulo;
